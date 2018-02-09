@@ -1,0 +1,6 @@
+G  G  D1 J0 E  E  
+E  D1 D0 E  J0 G  
+E  G  J0 E  J0 P0 
+E  J0 E  D0 G  G  
+P0 J0 P0 E  P0 G  
+E  G  P0 E  P0 G  
